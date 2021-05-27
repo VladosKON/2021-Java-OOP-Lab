@@ -65,7 +65,7 @@ public class Book{
                 "- Рейтинг: " + getRating() + "\n" +
                 "- Код языка: '" + getLangCode() + '\'' + "\n" +
                 "- Страницы: " + getPages() + "\n" +
-                "- Год публикации: " + getYearPublish();
+                "- Дата публикации: " + yearPublish;
     }
 
 }

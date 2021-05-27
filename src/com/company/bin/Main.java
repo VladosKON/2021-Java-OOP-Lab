@@ -145,7 +145,7 @@ public class Main {
             // Запись в файл
             try (FileWriter writer = new FileWriter("src/com/company/output/output.txt", false)) {
                 writer.write("Больше всего книг у издателя: " + topName);
-                // Вывод отсортированного списка книг
+                // Вывод отсортированного по году списка книг
                 // sort предложен по дефолту
                 for (Publish publish : publishList) {
                     Collections.sort(publish.getBookPublish(), new Comparator<Book>() {
