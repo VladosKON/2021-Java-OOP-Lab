@@ -1,0 +1,1787 @@
+Больше всего книг у издателя: Vintage
+[
+Книга:
+- Название: 'A Moveable Feast'
+- Автор: 'Ernest Hemingway'
+- Рейтинг: 4.04
+- Код языка: 'eng'
+- Страницы: 192
+- Год публикации: 2012, 
+Книга:
+- Название: 'The Year of Magical Thinking'
+- Автор: 'Joan Didion'
+- Рейтинг: 3.89
+- Код языка: 'eng'
+- Страницы: 227
+- Год публикации: 2007, 
+Книга:
+- Название: 'The Road to Reality: A Complete Guide to the Laws of the Universe'
+- Автор: 'Roger Penrose'
+- Рейтинг: 4.11
+- Код языка: 'eng'
+- Страницы: 1099
+- Год публикации: 2007, 
+Книга:
+- Название: 'Exile and the Kingdom'
+- Автор: 'Albert Camus/Carol Cosman/Orhan Pamuk'
+- Рейтинг: 3.89
+- Код языка: 'eng'
+- Страницы: 166
+- Год публикации: 2007, 
+Книга:
+- Название: 'The Brief History of the Dead'
+- Автор: 'Kevin Brockmeier'
+- Рейтинг: 3.67
+- Код языка: 'eng'
+- Страницы: 252
+- Год публикации: 2007, 
+Книга:
+- Название: 'Company'
+- Автор: 'Max Barry'
+- Рейтинг: 3.73
+- Код языка: 'eng'
+- Страницы: 338
+- Год публикации: 2007, 
+Книга:
+- Название: 'The Sea'
+- Автор: 'John Banville'
+- Рейтинг: 3.51
+- Код языка: 'eng'
+- Страницы: 195
+- Год публикации: 2006, 
+Книга:
+- Название: 'The Lighthouse (Adam Dalgliesh #13)'
+- Автор: 'P.D. James'
+- Рейтинг: 3.81
+- Код языка: 'eng'
+- Страницы: 383
+- Год публикации: 2006, 
+Книга:
+- Название: 'Lunar Park'
+- Автор: 'Bret Easton Ellis'
+- Рейтинг: 3.7
+- Код языка: 'eng'
+- Страницы: 404
+- Год публикации: 2006, 
+Книга:
+- Название: 'The Talking Horse and the Sad Girl and the Village Under the Sea: Poems'
+- Автор: 'Mark Haddon'
+- Рейтинг: 3.31
+- Код языка: 'eng'
+- Страницы: 60
+- Год публикации: 2006, 
+Книга:
+- Название: 'Human Traces'
+- Автор: 'Sebastian Faulks'
+- Рейтинг: 3.63
+- Код языка: 'eng'
+- Страницы: 793
+- Год публикации: 2006, 
+Книга:
+- Название: 'The Black Book'
+- Автор: 'Orhan Pamuk/Maureen Freely/عین له غریب'
+- Рейтинг: 3.91
+- Код языка: 'eng'
+- Страницы: 466
+- Год публикации: 2006, 
+Книга:
+- Название: 'Buried Child'
+- Автор: 'Sam Shepard'
+- Рейтинг: 3.91
+- Код языка: 'eng'
+- Страницы: 120
+- Год публикации: 2006, 
+Книга:
+- Название: 'The People's Tycoon: Henry Ford and the American Century'
+- Автор: 'Steven Watts'
+- Рейтинг: 4.02
+- Код языка: 'eng'
+- Страницы: 656
+- Год публикации: 2006, 
+Книга:
+- Название: 'The Sunset Limited'
+- Автор: 'Cormac McCarthy'
+- Рейтинг: 3.96
+- Код языка: 'eng'
+- Страницы: 160
+- Год публикации: 2006, 
+Книга:
+- Название: 'No Country for Old Men'
+- Автор: 'Cormac McCarthy'
+- Рейтинг: 4.14
+- Код языка: 'eng'
+- Страницы: 309
+- Год публикации: 2006, 
+Книга:
+- Название: 'Salonica  City of Ghosts: Christians  Muslims and Jews  1430-1950'
+- Автор: 'Mark Mazower'
+- Рейтинг: 4.27
+- Код языка: 'eng'
+- Страницы: 544
+- Год публикации: 2006, 
+Книга:
+- Название: 'Melville: His World and Work'
+- Автор: 'Andrew Delbanco'
+- Рейтинг: 4.04
+- Код языка: 'eng'
+- Страницы: 448
+- Год публикации: 2006, 
+Книга:
+- Название: 'Learned Optimism: How to Change Your Mind and Your Life'
+- Автор: 'Martin E.P. Seligman'
+- Рейтинг: 4.0
+- Код языка: 'eng'
+- Страницы: 319
+- Год публикации: 2006, 
+Книга:
+- Название: 'Acts of Faith'
+- Автор: 'Philip Caputo'
+- Рейтинг: 3.94
+- Код языка: 'eng'
+- Страницы: 688
+- Год публикации: 2006, 
+Книга:
+- Название: 'Deception'
+- Автор: 'Philip Roth'
+- Рейтинг: 3.34
+- Код языка: 'eng'
+- Страницы: 208
+- Год публикации: 2006, 
+Книга:
+- Название: 'Suicide Hill (Lloyd Hopkins  #3)'
+- Автор: 'James Ellroy'
+- Рейтинг: 3.53
+- Код языка: 'eng'
+- Страницы: 288
+- Год публикации: 2006, 
+Книга:
+- Название: 'The Pure in Heart (Simon Serrailler  #2)'
+- Автор: 'Susan Hill'
+- Рейтинг: 3.92
+- Код языка: 'eng'
+- Страницы: 320
+- Год публикации: 2006, 
+Книга:
+- Название: 'If Beale Street Could Talk'
+- Автор: 'James Baldwin'
+- Рейтинг: 4.23
+- Код языка: 'eng'
+- Страницы: 197
+- Год публикации: 2006, 
+Книга:
+- Название: '1491: New Revelations of the Americas Before Columbus'
+- Автор: 'Charles C. Mann'
+- Рейтинг: 4.02
+- Код языка: 'eng'
+- Страницы: 541
+- Год публикации: 2006, 
+Книга:
+- Название: 'Memoirs of a Geisha'
+- Автор: 'Arthur Golden'
+- Рейтинг: 4.11
+- Код языка: 'en-US'
+- Страницы: 497
+- Год публикации: 2005, 
+Книга:
+- Название: 'The Complete Stories of Truman Capote'
+- Автор: 'Truman Capote/Reynolds Price'
+- Рейтинг: 4.2
+- Код языка: 'eng'
+- Страницы: 320
+- Год публикации: 2005, 
+Книга:
+- Название: 'A Taste for Death (Adam Dalgliesh  #7)'
+- Автор: 'P.D. James'
+- Рейтинг: 4.02
+- Код языка: 'eng'
+- Страницы: 459
+- Год публикации: 2005, 
+Книга:
+- Название: 'Maximum City: Bombay Lost and Found'
+- Автор: 'Suketu Mehta'
+- Рейтинг: 3.93
+- Код языка: 'eng'
+- Страницы: 542
+- Год публикации: 2005, 
+Книга:
+- Название: 'How We Are Hungry'
+- Автор: 'Dave Eggers'
+- Рейтинг: 3.75
+- Код языка: 'eng'
+- Страницы: 224
+- Год публикации: 2005, 
+Книга:
+- Название: 'Magic Seeds'
+- Автор: 'V.S. Naipaul'
+- Рейтинг: 3.13
+- Код языка: 'eng'
+- Страницы: 280
+- Год публикации: 2005, 
+Книга:
+- Название: 'A Very Long Engagement'
+- Автор: 'Sébastien Japrisot'
+- Рейтинг: 3.91
+- Код языка: 'eng'
+- Страницы: 320
+- Год публикации: 2005, 
+Книга:
+- Название: 'His Excellency: George Washington'
+- Автор: 'Joseph J. Ellis'
+- Рейтинг: 3.92
+- Код языка: 'eng'
+- Страницы: 320
+- Год публикации: 2005, 
+Книга:
+- Название: 'The Working Poor: Invisible in America'
+- Автор: 'David K. Shipler'
+- Рейтинг: 4.03
+- Код языка: 'eng'
+- Страницы: 352
+- Год публикации: 2005, 
+Книга:
+- Название: 'Haruki Murakami and the Music of Words'
+- Автор: 'Jay Rubin'
+- Рейтинг: 3.83
+- Код языка: 'eng'
+- Страницы: 462
+- Год публикации: 2005, 
+Книга:
+- Название: 'Love'
+- Автор: 'Toni Morrison'
+- Рейтинг: 3.75
+- Код языка: 'eng'
+- Страницы: 224
+- Год публикации: 2005, 
+Книга:
+- Название: 'Under the Glacier'
+- Автор: 'Halldór Laxness/Magnus Magnusson'
+- Рейтинг: 3.59
+- Код языка: 'eng'
+- Страницы: 240
+- Год публикации: 2005, 
+Книга:
+- Название: 'Going Native'
+- Автор: 'Stephen Wright'
+- Рейтинг: 3.58
+- Код языка: 'eng'
+- Страницы: 320
+- Год публикации: 2005, 
+Книга:
+- Название: 'War Trash'
+- Автор: 'Ha Jin'
+- Рейтинг: 3.79
+- Код языка: 'eng'
+- Страницы: 368
+- Год публикации: 2005, 
+Книга:
+- Название: 'The Crack in Space'
+- Автор: 'Philip K. Dick'
+- Рейтинг: 3.46
+- Код языка: 'eng'
+- Страницы: 188
+- Год публикации: 2005, 
+Книга:
+- Название: 'Port Mungo'
+- Автор: 'Patrick McGrath'
+- Рейтинг: 3.32
+- Код языка: 'eng'
+- Страницы: 242
+- Год публикации: 2005, 
+Книга:
+- Название: 'Visiting Mrs Nabokov and Other Excursions'
+- Автор: 'Martin Amis'
+- Рейтинг: 3.7
+- Код языка: 'eng'
+- Страницы: 288
+- Год публикации: 2005, 
+Книга:
+- Название: 'Status Anxiety'
+- Автор: 'Alain de Botton'
+- Рейтинг: 3.91
+- Код языка: 'eng'
+- Страницы: 306
+- Год публикации: 2005, 
+Книга:
+- Название: 'Out'
+- Автор: 'Natsuo Kirino/Stephen Snyder'
+- Рейтинг: 3.92
+- Код языка: 'eng'
+- Страницы: 400
+- Год публикации: 2005, 
+Книга:
+- Название: 'Checkpoint'
+- Автор: 'Nicholson Baker'
+- Рейтинг: 2.88
+- Код языка: 'eng'
+- Страницы: 128
+- Год публикации: 2005, 
+Книга:
+- Название: 'The Dew Breaker'
+- Автор: 'Edwidge Danticat'
+- Рейтинг: 3.8
+- Код языка: 'eng'
+- Страницы: 244
+- Год публикации: 2005, 
+Книга:
+- Название: 'Because the Night (Lloyd Hopkins  #2)'
+- Автор: 'James Ellroy'
+- Рейтинг: 3.48
+- Код языка: 'eng'
+- Страницы: 288
+- Год публикации: 2005, 
+Книга:
+- Название: 'The Lemon Table'
+- Автор: 'Julian Barnes'
+- Рейтинг: 3.68
+- Код языка: 'eng'
+- Страницы: 241
+- Год публикации: 2005, 
+Книга:
+- Название: 'Where I Was From'
+- Автор: 'Joan Didion'
+- Рейтинг: 3.86
+- Код языка: 'eng'
+- Страницы: 240
+- Год публикации: 2004, 
+Книга:
+- Название: 'Living to Tell the Tale'
+- Автор: 'Gabriel García Márquez/Edith Grossman'
+- Рейтинг: 3.99
+- Код языка: 'eng'
+- Страницы: 533
+- Год публикации: 2004, 
+Книга:
+- Название: 'The Curious Incident of the Dog in the Night-Time'
+- Автор: 'Mark Haddon'
+- Рейтинг: 3.88
+- Код языка: 'eng'
+- Страницы: 226
+- Год публикации: 2004, 
+Книга:
+- Название: 'The Curious Incident of the Dog in the Night-Time'
+- Автор: 'Mark Haddon'
+- Рейтинг: 3.88
+- Код языка: 'eng'
+- Страницы: 272
+- Год публикации: 2004, 
+Книга:
+- Название: 'Shroud (The Cleave Trilogy #2)'
+- Автор: 'John Banville'
+- Рейтинг: 3.66
+- Код языка: 'eng'
+- Страницы: 257
+- Год публикации: 2004, 
+Книга:
+- Название: 'Berlin Blues'
+- Автор: 'Sven Regener/John Brownjohn'
+- Рейтинг: 3.87
+- Код языка: 'eng'
+- Страницы: 247
+- Год публикации: 2004, 
+Книга:
+- Название: 'The Adolescent'
+- Автор: 'Fyodor Dostoyevsky/Richard Pevear/Larissa Volokhonsky'
+- Рейтинг: 3.94
+- Код языка: 'eng'
+- Страницы: 647
+- Год публикации: 2004, 
+Книга:
+- Название: 'Beloved'
+- Автор: 'Toni Morrison'
+- Рейтинг: 3.83
+- Код языка: 'eng'
+- Страницы: 324
+- Год публикации: 2004, 
+Книга:
+- Название: 'Enduring Love'
+- Автор: 'Ian McEwan'
+- Рейтинг: 3.63
+- Код языка: 'eng'
+- Страницы: 245
+- Год публикации: 2004, 
+Книга:
+- Название: 'The Cement Garden'
+- Автор: 'Ian McEwan'
+- Рейтинг: 3.54
+- Код языка: 'eng'
+- Страницы: 144
+- Год публикации: 2004, 
+Книга:
+- Название: 'Song of Solomon'
+- Автор: 'Toni Morrison'
+- Рейтинг: 4.06
+- Код языка: 'eng'
+- Страницы: 337
+- Год публикации: 2004, 
+Книга:
+- Название: 'Jazz'
+- Автор: 'Toni Morrison'
+- Рейтинг: 3.81
+- Код языка: 'eng'
+- Страницы: 229
+- Год публикации: 2004, 
+Книга:
+- Название: 'Tar Baby'
+- Автор: 'Toni Morrison'
+- Рейтинг: 3.93
+- Код языка: 'eng'
+- Страницы: 320
+- Год публикации: 2004, 
+Книга:
+- Название: 'Sons of Mississippi: A Story of Race and Its Legacy'
+- Автор: 'Paul Hendrickson'
+- Рейтинг: 3.81
+- Код языка: 'eng'
+- Страницы: 368
+- Год публикации: 2004, 
+Книга:
+- Название: 'Something I've Been Meaning to Tell You: 13 Stories'
+- Автор: 'Alice Munro'
+- Рейтинг: 4.1
+- Код языка: 'eng'
+- Страницы: 246
+- Год публикации: 2004, 
+Книга:
+- Название: 'Einstein's Dreams'
+- Автор: 'Alan Lightman'
+- Рейтинг: 4.07
+- Код языка: 'eng'
+- Страницы: 144
+- Год публикации: 2004, 
+Книга:
+- Название: 'Titan: The Life of John D. Rockefeller  Sr.'
+- Автор: 'Ron Chernow'
+- Рейтинг: 4.2
+- Код языка: 'eng'
+- Страницы: 832
+- Год публикации: 2004, 
+Книга:
+- Название: 'Vulcan's Hammer'
+- Автор: 'Philip K. Dick'
+- Рейтинг: 3.52
+- Код языка: 'eng'
+- Страницы: 165
+- Год публикации: 2004, 
+Книга:
+- Название: 'The Time of Our Singing'
+- Автор: 'Richard Powers'
+- Рейтинг: 4.25
+- Код языка: 'eng'
+- Страницы: 631
+- Год публикации: 2004, 
+Книга:
+- Название: 'Mortals'
+- Автор: 'Norman Rush'
+- Рейтинг: 3.74
+- Код языка: 'en-US'
+- Страницы: 736
+- Год публикации: 2004, 
+Книга:
+- Название: 'A Box of Matches'
+- Автор: 'Nicholson Baker'
+- Рейтинг: 3.67
+- Код языка: 'eng'
+- Страницы: 192
+- Год публикации: 2004, 
+Книга:
+- Название: 'The Secret History'
+- Автор: 'Donna Tartt'
+- Рейтинг: 4.1
+- Код языка: 'eng'
+- Страницы: 559
+- Год публикации: 2004, 
+Книга:
+- Название: 'The Autograph Man'
+- Автор: 'Zadie Smith'
+- Рейтинг: 3.16
+- Код языка: 'eng'
+- Страницы: 347
+- Год публикации: 2003, 
+Книга:
+- Название: 'You Shall Know Our Velocity!'
+- Автор: 'Dave Eggers'
+- Рейтинг: 3.63
+- Код языка: 'eng'
+- Страницы: 401
+- Год публикации: 2003, 
+Книга:
+- Название: 'Angels'
+- Автор: 'Denis Johnson'
+- Рейтинг: 3.72
+- Код языка: 'eng'
+- Страницы: 209
+- Год публикации: 2003, 
+Книга:
+- Название: 'The Face of Another'
+- Автор: 'Kōbō Abe/E. Dale Saunders'
+- Рейтинг: 3.78
+- Код языка: 'eng'
+- Страницы: 238
+- Год публикации: 2003, 
+Книга:
+- Название: 'The Philosophy of Jean-Paul Sartre'
+- Автор: 'Jean-Paul Sartre'
+- Рейтинг: 3.89
+- Код языка: 'eng'
+- Страницы: 512
+- Год публикации: 2003, 
+Книга:
+- Название: 'Iceland's Bell'
+- Автор: 'Halldór Laxness/Philip Roughton/Adam Haslett'
+- Рейтинг: 3.89
+- Код языка: 'eng'
+- Страницы: 425
+- Год публикации: 2003, 
+Книга:
+- Название: 'The Dive From Clausen's Pier'
+- Автор: 'Ann Packer'
+- Рейтинг: 3.42
+- Код языка: 'eng'
+- Страницы: 432
+- Год публикации: 2003, 
+Книга:
+- Название: 'Chronicle of a Death Foretold'
+- Автор: 'Gabriel García Márquez/Gregory Rabassa'
+- Рейтинг: 3.97
+- Код языка: 'eng'
+- Страницы: 120
+- Год публикации: 2003, 
+Книга:
+- Название: 'Imaginary Friends'
+- Автор: 'Nora Ephron'
+- Рейтинг: 3.54
+- Код языка: 'eng'
+- Страницы: 144
+- Год публикации: 2003, 
+Книга:
+- Название: 'A Multitude of Sins'
+- Автор: 'Richard Ford'
+- Рейтинг: 3.75
+- Код языка: 'eng'
+- Страницы: 304
+- Год публикации: 2003, 
+Книга:
+- Название: 'Caramelo'
+- Автор: 'Sandra Cisneros'
+- Рейтинг: 3.9
+- Код языка: 'eng'
+- Страницы: 441
+- Год публикации: 2003, 
+Книга:
+- Название: 'I Don't Know How She Does It (Kate Reddy  #1)'
+- Автор: 'Allison Pearson'
+- Рейтинг: 3.33
+- Код языка: 'eng'
+- Страницы: 368
+- Год публикации: 2003, 
+Книга:
+- Название: 'One Step Behind  (Kurt Wallander  #7)'
+- Автор: 'Henning Mankell/Ebba Segerberg'
+- Рейтинг: 4.09
+- Код языка: 'eng'
+- Страницы: 450
+- Год публикации: 2003, 
+Книга:
+- Название: 'The White Lioness (Kurt Wallander  #3)'
+- Автор: 'Henning Mankell/Laurie Thompson'
+- Рейтинг: 3.84
+- Код языка: 'eng'
+- Страницы: 576
+- Год публикации: 2003, 
+Книга:
+- Название: 'The Cold Six Thousand (Underworld USA #2)'
+- Автор: 'James Ellroy'
+- Рейтинг: 4.01
+- Код языка: 'eng'
+- Страницы: 688
+- Год публикации: 2002, 
+Книга:
+- Название: 'Fury'
+- Автор: 'Salman Rushdie'
+- Рейтинг: 3.29
+- Код языка: 'eng'
+- Страницы: 272
+- Год публикации: 2002, 
+Книга:
+- Название: 'The Middle Passage'
+- Автор: 'V.S. Naipaul'
+- Рейтинг: 3.61
+- Код языка: 'en-US'
+- Страницы: 256
+- Год публикации: 2002, 
+Книга:
+- Название: 'Sputnik Sweetheart'
+- Автор: 'Haruki Murakami/Philip Gabriel'
+- Рейтинг: 3.83
+- Код языка: 'eng'
+- Страницы: 229
+- Год публикации: 2002, 
+Книга:
+- Название: 'Atonement'
+- Автор: 'Ian McEwan'
+- Рейтинг: 3.9
+- Код языка: 'eng'
+- Страницы: 372
+- Год публикации: 2002, 
+Книга:
+- Название: 'Secret Rendezvous'
+- Автор: 'Kōbō Abe/Juliet Winters Carpenter'
+- Рейтинг: 3.61
+- Код языка: 'eng'
+- Страницы: 192
+- Год публикации: 2002, 
+Книга:
+- Название: 'A Wild Sheep Chase (The Rat  #3)'
+- Автор: 'Haruki Murakami/Alfred Birnbaum'
+- Рейтинг: 3.95
+- Код языка: 'eng'
+- Страницы: 353
+- Год публикации: 2002, 
+Книга:
+- Название: 'Red: Passion and Patience in the Desert'
+- Автор: 'Terry Tempest Williams'
+- Рейтинг: 4.02
+- Код языка: 'eng'
+- Страницы: 288
+- Год публикации: 2002, 
+Книга:
+- Название: 'The Noonday Demon: An Anatomy of Depression'
+- Автор: 'Andrew Solomon'
+- Рейтинг: 4.18
+- Код языка: 'en-GB'
+- Страницы: 560
+- Год публикации: 2002, 
+Книга:
+- Название: 'World Light'
+- Автор: 'Halldór Laxness/Magnus Magnusson'
+- Рейтинг: 4.14
+- Код языка: 'eng'
+- Страницы: 624
+- Год публикации: 2002, 
+Книга:
+- Название: 'Paradise Reclaimed'
+- Автор: 'Halldór Laxness/Magnus Magnusson/Jane Smiley'
+- Рейтинг: 3.77
+- Код языка: 'eng'
+- Страницы: 304
+- Год публикации: 2002, 
+Книга:
+- Название: 'Island: Collected Stories'
+- Автор: 'Alistair MacLeod'
+- Рейтинг: 4.19
+- Код языка: 'eng'
+- Страницы: 448
+- Год публикации: 2002, 
+Книга:
+- Название: 'Double Fold: Libraries and the Assault on Paper'
+- Автор: 'Nicholson Baker'
+- Рейтинг: 3.42
+- Код языка: 'eng'
+- Страницы: 370
+- Год публикации: 2002, 
+Книга:
+- Название: 'The Dying Animal'
+- Автор: 'Philip Roth'
+- Рейтинг: 3.63
+- Код языка: 'eng'
+- Страницы: 156
+- Год публикации: 2002, 
+Книга:
+- Название: 'In the Pond'
+- Автор: 'Ha Jin'
+- Рейтинг: 3.71
+- Код языка: 'en-GB'
+- Страницы: 160
+- Год публикации: 2002, 
+Книга:
+- Название: 'In the Bedroom: Seven Stories'
+- Автор: 'Andre Dubus/Todd Field'
+- Рейтинг: 4.16
+- Код языка: 'eng'
+- Страницы: 148
+- Год публикации: 2002, 
+Книга:
+- Название: 'The Book of Evidence (The Freddie Montgomery Trilogy #1)'
+- Автор: 'John Banville'
+- Рейтинг: 3.71
+- Код языка: 'eng'
+- Страницы: 220
+- Год публикации: 2001, 
+Книга:
+- Название: 'White Teeth'
+- Автор: 'Zadie Smith'
+- Рейтинг: 3.77
+- Код языка: 'eng'
+- Страницы: 448
+- Год публикации: 2001, 
+Книга:
+- Название: 'A Heartbreaking Work of Staggering Genius'
+- Автор: 'Dave Eggers'
+- Рейтинг: 3.68
+- Код языка: 'eng'
+- Страницы: 485
+- Год публикации: 2001, 
+Книга:
+- Название: 'A Fine Balance'
+- Автор: 'Rohinton Mistry'
+- Рейтинг: 4.36
+- Код языка: 'eng'
+- Страницы: 603
+- Год публикации: 2001, 
+Книга:
+- Название: 'Anil's Ghost'
+- Автор: 'Michael Ondaatje'
+- Рейтинг: 3.57
+- Код языка: 'eng'
+- Страницы: 311
+- Год публикации: 2001, 
+Книга:
+- Название: 'Ghostwritten'
+- Автор: 'David Mitchell'
+- Рейтинг: 4.05
+- Код языка: 'eng'
+- Страницы: 426
+- Год публикации: 2001, 
+Книга:
+- Название: 'The Ruined Map'
+- Автор: 'Kōbō Abe/E. Dale Saunders'
+- Рейтинг: 3.55
+- Код языка: 'eng'
+- Страницы: 304
+- Год публикации: 2001, 
+Книга:
+- Название: 'The Human Stain (The American Trilogy  #3)'
+- Автор: 'Philip Roth'
+- Рейтинг: 3.88
+- Код языка: 'eng'
+- Страницы: 384
+- Год публикации: 2001, 
+Книга:
+- Название: 'Lives of Girls and Women'
+- Автор: 'Alice Munro'
+- Рейтинг: 3.99
+- Код языка: 'eng'
+- Страницы: 277
+- Год публикации: 2001, 
+Книга:
+- Название: 'Gain'
+- Автор: 'Richard Powers'
+- Рейтинг: 3.77
+- Код языка: 'eng'
+- Страницы: 355
+- Год публикации: 2001, 
+Книга:
+- Название: 'Experience'
+- Автор: 'Martin Amis'
+- Рейтинг: 3.96
+- Код языка: 'eng'
+- Страницы: 401
+- Год публикации: 2001, 
+Книга:
+- Название: 'How to Travel with a Salmon & Other Essays'
+- Автор: 'Umberto Eco/William Weaver'
+- Рейтинг: 3.85
+- Код языка: 'eng'
+- Страницы: 229
+- Год публикации: 2001, 
+Книга:
+- Название: 'The Consolations of Philosophy'
+- Автор: 'Alain de Botton'
+- Рейтинг: 4.01
+- Код языка: 'en-US'
+- Страницы: 265
+- Год публикации: 2001, 
+Книга:
+- Название: 'The Bridegroom'
+- Автор: 'Ha Jin'
+- Рейтинг: 3.77
+- Код языка: 'eng'
+- Страницы: 240
+- Год публикации: 2001, 
+Книга:
+- Название: 'The Bridegroom'
+- Автор: 'Ha Jin'
+- Рейтинг: 3.77
+- Код языка: 'eng'
+- Страницы: 225
+- Год публикации: 2001, 
+Книга:
+- Название: 'Naomi'
+- Автор: 'Jun'ichirō Tanizaki/Anthony H. Chambers'
+- Рейтинг: 3.69
+- Код языка: 'en-GB'
+- Страницы: 237
+- Год публикации: 2001, 
+Книга:
+- Название: 'A General Theory of Love'
+- Автор: 'Thomas Lewis/Fari Amini/Richard Lannon'
+- Рейтинг: 4.11
+- Код языка: 'eng'
+- Страницы: 288
+- Год публикации: 2001, 
+Книга:
+- Название: 'Lincoln'
+- Автор: 'Gore Vidal'
+- Рейтинг: 4.21
+- Код языка: 'eng'
+- Страницы: 672
+- Год публикации: 2000, 
+Книга:
+- Название: 'Burr'
+- Автор: 'Gore Vidal'
+- Рейтинг: 4.07
+- Код языка: 'eng'
+- Страницы: 430
+- Год публикации: 2000, 
+Книга:
+- Название: 'Glamorama'
+- Автор: 'Bret Easton Ellis'
+- Рейтинг: 3.46
+- Код языка: 'eng'
+- Страницы: 546
+- Год публикации: 2000, 
+Книга:
+- Название: 'All of Us: The Collected Poems'
+- Автор: 'Raymond Carver'
+- Рейтинг: 4.3
+- Код языка: 'eng'
+- Страницы: 416
+- Год публикации: 2000, 
+Книга:
+- Название: 'For the Time Being'
+- Автор: 'Annie Dillard'
+- Рейтинг: 4.16
+- Код языка: 'en-US'
+- Страницы: 205
+- Год публикации: 2000, 
+Книга:
+- Название: 'The World and Other Places: Stories'
+- Автор: 'Jeanette Winterson'
+- Рейтинг: 3.86
+- Код языка: 'eng'
+- Страницы: 240
+- Год публикации: 2000, 
+Книга:
+- Название: 'Stranger in the Forest: On Foot Across Borneo'
+- Автор: 'Eric Hansen'
+- Рейтинг: 4.1
+- Код языка: 'eng'
+- Страницы: 288
+- Год публикации: 2000, 
+Книга:
+- Название: 'Heavy Water and Other Stories'
+- Автор: 'Martin Amis'
+- Рейтинг: 3.39
+- Код языка: 'eng'
+- Страницы: 208
+- Год публикации: 2000, 
+Книга:
+- Название: 'For the Relief of Unbearable Urges'
+- Автор: 'Nathan Englander'
+- Рейтинг: 3.93
+- Код языка: 'eng'
+- Страницы: 205
+- Год публикации: 2000, 
+Книга:
+- Название: 'The Progress of Love'
+- Автор: 'Alice Munro'
+- Рейтинг: 4.14
+- Код языка: 'eng'
+- Страницы: 320
+- Год публикации: 2000, 
+Книга:
+- Название: 'South of the Border  West of the Sun'
+- Автор: 'Haruki Murakami/Philip Gabriel'
+- Рейтинг: 3.87
+- Код языка: 'eng'
+- Страницы: 213
+- Год публикации: 2000, 
+Книга:
+- Название: 'Night Falls Fast: Understanding Suicide'
+- Автор: 'Kay Redfield Jamison'
+- Рейтинг: 4.1
+- Код языка: 'eng'
+- Страницы: 432
+- Год публикации: 2000, 
+Книга:
+- Название: 'Monkeys'
+- Автор: 'Susan Minot'
+- Рейтинг: 3.67
+- Код языка: 'eng'
+- Страницы: 176
+- Год публикации: 2000, 
+Книга:
+- Название: 'The Tiny One'
+- Автор: 'Eliza Minot'
+- Рейтинг: 3.68
+- Код языка: 'eng'
+- Страницы: 258
+- Год публикации: 2000, 
+Книга:
+- Название: 'An Imaginary Life'
+- Автор: 'David Malouf'
+- Рейтинг: 3.88
+- Код языка: 'eng'
+- Страницы: 156
+- Год публикации: 1999, 
+Книга:
+- Название: 'The Great World'
+- Автор: 'David Malouf'
+- Рейтинг: 3.88
+- Код языка: 'eng'
+- Страницы: 336
+- Год публикации: 1999, 
+Книга:
+- Название: 'The Girl at the Lion d'Or'
+- Автор: 'Sebastian Faulks'
+- Рейтинг: 3.58
+- Код языка: 'eng'
+- Страницы: 246
+- Год публикации: 1999, 
+Книга:
+- Название: 'I Married a Communist (The American Trilogy  #2)'
+- Автор: 'Philip Roth'
+- Рейтинг: 3.81
+- Код языка: 'eng'
+- Страницы: 323
+- Год публикации: 1999, 
+Книга:
+- Название: 'True and False: Heresy and Common Sense for the Actor'
+- Автор: 'David Mamet'
+- Рейтинг: 3.95
+- Код языка: 'eng'
+- Страницы: 144
+- Год публикации: 1999, 
+Книга:
+- Название: 'Awakenings'
+- Автор: 'Oliver Sacks'
+- Рейтинг: 4.1
+- Код языка: 'eng'
+- Страницы: 464
+- Год публикации: 1999, 
+Книга:
+- Название: 'Doctor Faustus'
+- Автор: 'Thomas Mann/John E. Woods'
+- Рейтинг: 4.08
+- Код языка: 'eng'
+- Страницы: 535
+- Год публикации: 1999, 
+Книга:
+- Название: 'Filth'
+- Автор: 'Irvine Welsh'
+- Рейтинг: 3.73
+- Код языка: 'eng'
+- Страницы: 393
+- Год публикации: 1999, 
+Книга:
+- Название: 'Confederates in the Attic: Dispatches from the Unfinished Civil War'
+- Автор: 'Tony Horwitz'
+- Рейтинг: 4.09
+- Код языка: 'eng'
+- Страницы: 406
+- Год публикации: 1999, 
+Книга:
+- Название: 'Evening'
+- Автор: 'Susan Minot'
+- Рейтинг: 3.37
+- Код языка: 'eng'
+- Страницы: 288
+- Год публикации: 1999, 
+Книга:
+- Название: 'The Untouchable'
+- Автор: 'John Banville'
+- Рейтинг: 3.95
+- Код языка: 'eng'
+- Страницы: 367
+- Год публикации: 1998, 
+Книга:
+- Название: 'Memoirs of a Geisha'
+- Автор: 'Arthur Golden'
+- Рейтинг: 4.11
+- Код языка: 'eng'
+- Страницы: 497
+- Год публикации: 1998, 
+Книга:
+- Название: 'Breath  Eyes  Memory'
+- Автор: 'Edwidge Danticat'
+- Рейтинг: 3.88
+- Код языка: 'eng'
+- Страницы: 234
+- Год публикации: 1998, 
+Книга:
+- Название: 'A Short History of Byzantium'
+- Автор: 'John Julius Norwich'
+- Рейтинг: 4.09
+- Код языка: 'eng'
+- Страницы: 496
+- Год публикации: 1998, 
+Книга:
+- Название: 'Losers: The Road to Everyplace But the White House'
+- Автор: 'Michael   Lewis'
+- Рейтинг: 3.87
+- Код языка: 'en-US'
+- Страницы: 320
+- Год публикации: 1998, 
+Книга:
+- Название: 'The Colossus and Other Poems'
+- Автор: 'Sylvia Plath'
+- Рейтинг: 4.19
+- Код языка: 'eng'
+- Страницы: 84
+- Год публикации: 1998, 
+Книга:
+- Название: 'American Pastoral (The American Trilogy  #1)'
+- Автор: 'Philip Roth'
+- Рейтинг: 3.92
+- Код языка: 'eng'
+- Страницы: 432
+- Год публикации: 1998, 
+Книга:
+- Название: 'The Risk Pool'
+- Автор: 'Richard Russo'
+- Рейтинг: 4.04
+- Код языка: 'eng'
+- Страницы: 479
+- Год публикации: 1998, 
+Книга:
+- Название: 'Fugitive Pieces'
+- Автор: 'Anne Michaels'
+- Рейтинг: 3.93
+- Код языка: 'eng'
+- Страницы: 304
+- Год публикации: 1998, 
+Книга:
+- Название: 'American Sphinx: The Character of Thomas Jefferson'
+- Автор: 'Joseph J. Ellis'
+- Рейтинг: 3.92
+- Код языка: 'eng'
+- Страницы: 440
+- Год публикации: 1998, 
+Книга:
+- Название: 'How Proust Can Change Your Life'
+- Автор: 'Alain de Botton'
+- Рейтинг: 3.76
+- Код языка: 'eng'
+- Страницы: 208
+- Год публикации: 1998, 
+Книга:
+- Название: 'Ocean of Words'
+- Автор: 'Ha Jin'
+- Рейтинг: 3.81
+- Код языка: 'eng'
+- Страницы: 205
+- Год публикации: 1998, 
+Книга:
+- Название: 'Tell Me How Long the Train's Been Gone'
+- Автор: 'James Baldwin'
+- Рейтинг: 4.26
+- Код языка: 'eng'
+- Страницы: 496
+- Год публикации: 1998, 
+Книга:
+- Название: 'The Amen Corner'
+- Автор: 'James Baldwin'
+- Рейтинг: 3.9
+- Код языка: 'eng'
+- Страницы: 112
+- Год публикации: 1998, 
+Книга:
+- Название: 'A Virtuous Woman'
+- Автор: 'Kaye Gibbons'
+- Рейтинг: 3.69
+- Код языка: 'eng'
+- Страницы: 165
+- Год публикации: 1997, 
+Книга:
+- Название: 'A Lesson Before Dying'
+- Автор: 'Ernest J. Gaines'
+- Рейтинг: 3.95
+- Код языка: 'eng'
+- Страницы: 256
+- Год публикации: 1997, 
+Книга:
+- Название: 'The Ends of the Earth: A Journey to the Frontiers of Anarchy'
+- Автор: 'Robert D. Kaplan'
+- Рейтинг: 4.12
+- Код языка: 'eng'
+- Страницы: 496
+- Год публикации: 1997, 
+Книга:
+- Название: 'The Living and the Dead: Robert McNamara and Five Lives of a Lost War'
+- Автор: 'Paul Hendrickson'
+- Рейтинг: 4.01
+- Код языка: 'eng'
+- Страницы: 448
+- Год публикации: 1997, 
+Книга:
+- Название: 'Selected Stories'
+- Автор: 'Alice Munro'
+- Рейтинг: 4.28
+- Код языка: 'eng'
+- Страницы: 688
+- Год публикации: 1997, 
+Книга:
+- Название: 'Art Objects: Essays on Ecstasy and Effrontery'
+- Автор: 'Jeanette Winterson'
+- Рейтинг: 4.05
+- Код языка: 'eng'
+- Страницы: 192
+- Год публикации: 1997, 
+Книга:
+- Название: 'The Grotesque'
+- Автор: 'Patrick McGrath'
+- Рейтинг: 3.62
+- Код языка: 'eng'
+- Страницы: 178
+- Год публикации: 1997, 
+Книга:
+- Название: 'CivilWarLand in Bad Decline'
+- Автор: 'George Saunders'
+- Рейтинг: 4.22
+- Код языка: 'eng'
+- Страницы: 179
+- Год публикации: 1997, 
+Книга:
+- Название: 'Letting Go'
+- Автор: 'Philip Roth'
+- Рейтинг: 3.7
+- Код языка: 'eng'
+- Страницы: 630
+- Год публикации: 1997, 
+Книга:
+- Название: 'Lolita: The Screenplay'
+- Автор: 'Vladimir Nabokov'
+- Рейтинг: 3.87
+- Код языка: 'eng'
+- Страницы: 240
+- Год публикации: 1997, 
+Книга:
+- Название: 'Athena (The Freddie Montgomery Trilogy #3)'
+- Автор: 'John Banville'
+- Рейтинг: 3.66
+- Код языка: 'eng'
+- Страницы: 240
+- Год публикации: 1996, 
+Книга:
+- Название: 'The Stories of Vladimir Nabokov'
+- Автор: 'Vladimir Nabokov'
+- Рейтинг: 4.3
+- Код языка: 'eng'
+- Страницы: 685
+- Год публикации: 1996, 
+Книга:
+- Название: 'The Moor's Last Sigh'
+- Автор: 'Salman Rushdie'
+- Рейтинг: 3.93
+- Код языка: 'eng'
+- Страницы: 434
+- Год публикации: 1996, 
+Книга:
+- Название: 'Sabbath's Theater'
+- Автор: 'Philip Roth'
+- Рейтинг: 3.85
+- Код языка: 'eng'
+- Страницы: 451
+- Год публикации: 1996, 
+Книга:
+- Название: 'The Counterlife'
+- Автор: 'Philip Roth'
+- Рейтинг: 3.91
+- Код языка: 'eng'
+- Страницы: 336
+- Год публикации: 1996, 
+Книга:
+- Название: 'Sabbath's Theater'
+- Автор: 'Philip Roth'
+- Рейтинг: 3.85
+- Код языка: 'eng'
+- Страницы: 451
+- Год публикации: 1996, 
+Книга:
+- Название: 'The Master of Go'
+- Автор: 'Yasunari Kawabata/Edward G. Seidensticker'
+- Рейтинг: 3.84
+- Код языка: 'eng'
+- Страницы: 189
+- Год публикации: 1996, 
+Книга:
+- Название: 'Beauty and Sadness'
+- Автор: 'Yasunari Kawabata/Howard Hibbett'
+- Рейтинг: 3.85
+- Код языка: 'eng'
+- Страницы: 206
+- Год публикации: 1996, 
+Книга:
+- Название: 'The Shifting Realities of Philip K. Dick'
+- Автор: 'Philip K. Dick/Lawrence Sutin'
+- Рейтинг: 4.09
+- Код языка: 'en-US'
+- Страницы: 384
+- Год публикации: 1996, 
+Книга:
+- Название: 'Art and Lies'
+- Автор: 'Jeanette Winterson'
+- Рейтинг: 3.86
+- Код языка: 'eng'
+- Страницы: 240
+- Год публикации: 1996, 
+Книга:
+- Название: 'A Civil Action'
+- Автор: 'Jonathan Harr'
+- Рейтинг: 3.97
+- Код языка: 'eng'
+- Страницы: 512
+- Год публикации: 1996, 
+Книга:
+- Название: 'Patrimony'
+- Автор: 'Philip Roth'
+- Рейтинг: 4.17
+- Код языка: 'eng'
+- Страницы: 240
+- Год публикации: 1996, 
+Книга:
+- Название: 'Seven Japanese Tales'
+- Автор: 'Jun'ichirō Tanizaki/Howard Hibbett'
+- Рейтинг: 3.85
+- Код языка: 'eng'
+- Страницы: 298
+- Год публикации: 1996, 
+Книга:
+- Название: 'Corelli's Mandolin'
+- Автор: 'Louis de Bernières'
+- Рейтинг: 3.98
+- Код языка: 'eng'
+- Страницы: 437
+- Год публикации: 1995, 
+Книга:
+- Название: 'The Son Avenger (The Master of Hestviken  #4)'
+- Автор: 'Sigrid Undset'
+- Рейтинг: 4.4
+- Код языка: 'en-US'
+- Страницы: 288
+- Год публикации: 1995, 
+Книга:
+- Название: 'In Pharaoh's Army: Memories of the Lost War'
+- Автор: 'Tobias Wolff/Luann Walther'
+- Рейтинг: 4.08
+- Код языка: 'eng'
+- Страницы: 240
+- Год публикации: 1995, 
+Книга:
+- Название: 'Resistance  Rebellion and Death: Essays'
+- Автор: 'Albert Camus/Justin O'Brien'
+- Рейтинг: 4.2
+- Код языка: 'en-US'
+- Страницы: 288
+- Год публикации: 1995, 
+Книга:
+- Название: 'Three Plays: Desire Under the Elms / Strange Interlude / Mourning Becomes Electra'
+- Автор: 'Eugene O'Neill/Luann Walther'
+- Рейтинг: 4.08
+- Код языка: 'eng'
+- Страницы: 424
+- Год публикации: 1995, 
+Книга:
+- Название: 'Open Secrets'
+- Автор: 'Alice Munro'
+- Рейтинг: 4.07
+- Код языка: 'eng'
+- Страницы: 304
+- Год публикации: 1995, 
+Книга:
+- Название: 'Midnight's Children'
+- Автор: 'Salman Rushdie'
+- Рейтинг: 3.98
+- Код языка: 'eng'
+- Страницы: 647
+- Год публикации: 1995, 
+Книга:
+- Название: 'The Rings of Saturn'
+- Автор: 'W.G. Sebald/Michael Hulse'
+- Рейтинг: 4.26
+- Код языка: 'eng'
+- Страницы: 304
+- Год публикации: 1995, 
+Книга:
+- Название: 'The Death of Virgil'
+- Автор: 'Hermann Broch/Jean Starr Untermeyer'
+- Рейтинг: 4.19
+- Код языка: 'eng'
+- Страницы: 496
+- Год публикации: 1995, 
+Книга:
+- Название: 'The Great American Novel'
+- Автор: 'Philip Roth'
+- Рейтинг: 3.63
+- Код языка: 'eng'
+- Страницы: 416
+- Год публикации: 1995, 
+Книга:
+- Название: 'The Professor of Desire'
+- Автор: 'Philip Roth/Νίκος Παναγιωτόπουλος'
+- Рейтинг: 3.66
+- Код языка: 'eng'
+- Страницы: 272
+- Год публикации: 1995, 
+Книга:
+- Название: 'When She Was Good'
+- Автор: 'Philip Roth'
+- Рейтинг: 3.53
+- Код языка: 'eng'
+- Страницы: 320
+- Год публикации: 1995, 
+Книга:
+- Название: 'Selected Stories'
+- Автор: 'Andre Dubus'
+- Рейтинг: 4.28
+- Код языка: 'eng'
+- Страницы: 476
+- Год публикации: 1995, 
+Книга:
+- Название: 'The Makioka Sisters'
+- Автор: 'Jun'ichirō Tanizaki/Edward G. Seidensticker'
+- Рейтинг: 4.03
+- Код языка: 'eng'
+- Страницы: 530
+- Год публикации: 1995, 
+Книга:
+- Название: 'Quicksand'
+- Автор: 'Jun'ichirō Tanizaki/Howard Hibbett'
+- Рейтинг: 3.65
+- Код языка: 'eng'
+- Страницы: 224
+- Год публикации: 1995, 
+Книга:
+- Название: 'The Reed Cutter & Captain Shigemoto's Mother'
+- Автор: 'Jun'ichirō Tanizaki/Anthony H. Chambers'
+- Рейтинг: 3.67
+- Код языка: 'eng'
+- Страницы: 180
+- Год публикации: 1995, 
+Книга:
+- Название: 'Blues for Mister Charlie'
+- Автор: 'James Baldwin'
+- Рейтинг: 4.13
+- Код языка: 'eng'
+- Страницы: 144
+- Год публикации: 1995, 
+Книга:
+- Название: 'Other Voices  Other Rooms'
+- Автор: 'Truman Capote'
+- Рейтинг: 3.8
+- Код языка: 'eng'
+- Страницы: 232
+- Год публикации: 1994, 
+Книга:
+- Название: 'Catch-22'
+- Автор: 'Joseph Heller'
+- Рейтинг: 3.98
+- Код языка: 'eng'
+- Страницы: 519
+- Год публикации: 1994, 
+Книга:
+- Название: 'The Axe (The Master of Hestviken  #1)'
+- Автор: 'Sigrid Undset/Arthur G. Chater'
+- Рейтинг: 4.21
+- Код языка: 'eng'
+- Страницы: 304
+- Год публикации: 1994, 
+Книга:
+- Название: 'The Snake Pit (The Master of Hestviken  #2)'
+- Автор: 'Sigrid Undset/Arthur G. Chater'
+- Рейтинг: 4.23
+- Код языка: 'eng'
+- Страницы: 240
+- Год публикации: 1994, 
+Книга:
+- Название: 'The Vintage Book of Contemporary American Short Stories'
+- Автор: 'Tobias Wolff'
+- Рейтинг: 4.11
+- Код языка: 'eng'
+- Страницы: 576
+- Год публикации: 1994, 
+Книга:
+- Название: 'Operation Shylock: A Confession'
+- Автор: 'Philip Roth'
+- Рейтинг: 3.77
+- Код языка: 'eng'
+- Страницы: 400
+- Год публикации: 1994, 
+Книга:
+- Название: 'Written on the Body'
+- Автор: 'Jeanette Winterson'
+- Рейтинг: 4.07
+- Код языка: 'eng'
+- Страницы: 192
+- Год публикации: 1994, 
+Книга:
+- Название: 'Far Afield'
+- Автор: 'Susanna Kaysen'
+- Рейтинг: 3.81
+- Код языка: 'eng'
+- Страницы: 352
+- Год публикации: 1994, 
+Книга:
+- Название: 'My Life as a Man'
+- Автор: 'Philip Roth'
+- Рейтинг: 3.73
+- Код языка: 'eng'
+- Страницы: 334
+- Год публикации: 1994, 
+Книга:
+- Название: 'Now and on Earth'
+- Автор: 'Jim Thompson/Stephen King'
+- Рейтинг: 3.7
+- Код языка: 'eng'
+- Страницы: 320
+- Год публикации: 1994, 
+Книга:
+- Название: 'Doctor Copernicus  (The Revolutions Trilogy #1)'
+- Автор: 'John Banville'
+- Рейтинг: 3.65
+- Код языка: 'eng'
+- Страницы: 242
+- Год публикации: 1993, 
+Книга:
+- Название: 'The Radicalism of the American Revolution'
+- Автор: 'Gordon S. Wood'
+- Рейтинг: 4.06
+- Код языка: 'eng'
+- Страницы: 447
+- Год публикации: 1993, 
+Книга:
+- Название: 'After Henry'
+- Автор: 'Joan Didion'
+- Рейтинг: 3.83
+- Код языка: 'eng'
+- Страницы: 320
+- Год публикации: 1993, 
+Книга:
+- Название: 'The Grass Harp  Including A Tree of Night and Other Stories'
+- Автор: 'Truman Capote'
+- Рейтинг: 4.01
+- Код языка: 'eng'
+- Страницы: 272
+- Год публикации: 1993, 
+Книга:
+- Название: 'Short Cuts: Selected Stories'
+- Автор: 'Raymond Carver/Robert Altman'
+- Рейтинг: 4.11
+- Код языка: 'eng'
+- Страницы: 157
+- Год публикации: 1993, 
+Книга:
+- Название: 'Winter's Tales'
+- Автор: 'Isak Dinesen/Karen Blixen'
+- Рейтинг: 3.9
+- Код языка: 'eng'
+- Страницы: 320
+- Год публикации: 1993, 
+Книга:
+- Название: 'The Rebel'
+- Автор: 'Albert Camus/Anthony Bower/Herbert Read'
+- Рейтинг: 4.15
+- Код языка: 'eng'
+- Страницы: 320
+- Год публикации: 1992, 
+Книга:
+- Название: 'Touching the Rock: An Experience of Blindness'
+- Автор: 'John M. Hull/Oliver Sacks'
+- Рейтинг: 3.98
+- Код языка: 'eng'
+- Страницы: 248
+- Год публикации: 1992, 
+Книга:
+- Название: 'Whites'
+- Автор: 'Norman Rush'
+- Рейтинг: 3.77
+- Код языка: 'eng'
+- Страницы: 160
+- Год публикации: 1992, 
+Книга:
+- Название: 'Ratner's Star'
+- Автор: 'Don DeLillo'
+- Рейтинг: 3.49
+- Код языка: 'eng'
+- Страницы: 448
+- Год публикации: 1992, 
+Книга:
+- Название: 'Woman Hollering Creek and Other Stories'
+- Автор: 'Sandra Cisneros'
+- Рейтинг: 4.04
+- Код языка: 'eng'
+- Страницы: 192
+- Год публикации: 1992, 
+Книга:
+- Название: 'Nobody Knows My Name'
+- Автор: 'James Baldwin'
+- Рейтинг: 4.35
+- Код языка: 'eng'
+- Страницы: 242
+- Год публикации: 1992, 
+Книга:
+- Название: 'The Heidi Chronicles: Uncommon Women and Others & Isn't It Romantic'
+- Автор: 'Wendy Wasserstein'
+- Рейтинг: 3.84
+- Код языка: 'eng'
+- Страницы: 249
+- Год публикации: 1991, 
+Книга:
+- Название: 'Dispatches'
+- Автор: 'Michael Herr'
+- Рейтинг: 4.23
+- Код языка: 'eng'
+- Страницы: 260
+- Год публикации: 1991, 
+Книга:
+- Название: 'Light in August'
+- Автор: 'William Faulkner'
+- Рейтинг: 3.94
+- Код языка: 'eng'
+- Страницы: 507
+- Год публикации: 1991, 
+Книга:
+- Название: 'The Fall'
+- Автор: 'Albert Camus/Justin O'Brien'
+- Рейтинг: 4.04
+- Код языка: 'eng'
+- Страницы: 147
+- Год публикации: 1991, 
+Книга:
+- Название: 'The Beggar Maid: Stories of Flo and Rose'
+- Автор: 'Alice Munro/Susanna Basso'
+- Рейтинг: 3.93
+- Код языка: 'eng'
+- Страницы: 210
+- Год публикации: 1991, 
+Книга:
+- Название: 'Last Tales'
+- Автор: 'Isak Dinesen/Karen Blixen'
+- Рейтинг: 4.11
+- Код языка: 'eng'
+- Страницы: 352
+- Год публикации: 1991, 
+Книга:
+- Название: 'The Art of Fiction: Notes on Craft for Young Writers'
+- Автор: 'John Gardner'
+- Рейтинг: 4.0
+- Код языка: 'eng'
+- Страницы: 224
+- Год публикации: 1991, 
+Книга:
+- Название: 'Hit Men: Power Brokers and Fast Money Inside the Music Business'
+- Автор: 'Fredric Dannen/Erroll McDonald'
+- Рейтинг: 3.94
+- Код языка: 'eng'
+- Страницы: 432
+- Год публикации: 1991, 
+Книга:
+- Название: 'The Burnt Orange Heresy (Vintage Crime/Black Lizard)'
+- Автор: 'Charles Willeford'
+- Рейтинг: 3.89
+- Код языка: 'eng'
+- Страницы: 144
+- Год публикации: 1990, 
+Книга:
+- Название: 'Flaubert's Parrot'
+- Автор: 'Julian Barnes'
+- Рейтинг: 3.66
+- Код языка: 'eng'
+- Страницы: 190
+- Год публикации: 1990, 
+Книга:
+- Название: 'The Luzhin Defense'
+- Автор: 'Vladimir Nabokov/Michael Scammell'
+- Рейтинг: 3.95
+- Код языка: 'eng'
+- Страницы: 256
+- Год публикации: 1990, 
+Книга:
+- Название: 'Ada  or Ardor: A Family Chronicle'
+- Автор: 'Vladimir Nabokov/Fatih Özgüven'
+- Рейтинг: 4.15
+- Код языка: 'eng'
+- Страницы: 604
+- Год публикации: 1990, 
+Книга:
+- Название: 'Strong Opinions'
+- Автор: 'Vladimir Nabokov'
+- Рейтинг: 4.0
+- Код языка: 'eng'
+- Страницы: 368
+- Год публикации: 1990, 
+Книга:
+- Название: 'Losing Battles'
+- Автор: 'Eudora Welty'
+- Рейтинг: 3.6
+- Код языка: 'eng'
+- Страницы: 436
+- Год публикации: 1990, 
+Книга:
+- Название: 'The Eye of the Story: Selected Essays and Reviews'
+- Автор: 'Eudora Welty'
+- Рейтинг: 4.06
+- Код языка: 'eng'
+- Страницы: 368
+- Год публикации: 1990, 
+Книга:
+- Название: 'The Aeneid'
+- Автор: 'Virgil/Robert Fitzgerald'
+- Рейтинг: 3.84
+- Код языка: 'eng'
+- Страницы: 442
+- Год публикации: 1990, 
+Книга:
+- Название: 'Democracy in America Volume 2'
+- Автор: 'Alexis de Tocqueville/Eduardo Brandão/Phillips Bradley/Luann Walther'
+- Рейтинг: 4.17
+- Код языка: 'eng'
+- Страницы: 506
+- Год публикации: 1990, 
+Книга:
+- Название: 'The Names'
+- Автор: 'Don DeLillo'
+- Рейтинг: 3.64
+- Код языка: 'eng'
+- Страницы: 339
+- Год публикации: 1989, 
+Книга:
+- Название: 'Aké: The Years of Childhood'
+- Автор: 'Wole Soyinka'
+- Рейтинг: 3.93
+- Код языка: 'eng'
+- Страницы: 230
+- Год публикации: 1989, 
+Книга:
+- Название: 'Cities of Salt (مدن الملح #1)'
+- Автор: 'Abdul Rahman Munif/Peter Theroux'
+- Рейтинг: 4.13
+- Код языка: 'eng'
+- Страницы: 627
+- Год публикации: 1989, 
+Книга:
+- Название: 'A History of Venice'
+- Автор: 'John Julius Norwich'
+- Рейтинг: 4.2
+- Код языка: 'eng'
+- Страницы: 673
+- Год публикации: 1989, 
+Книга:
+- Название: 'Out of Africa / Shadows on the Grass'
+- Автор: 'Isak Dinesen/Karen Blixen'
+- Рейтинг: 4.24
+- Код языка: 'eng'
+- Страницы: 462
+- Год публикации: 1989, 
+Книга:
+- Название: 'Hiroshima'
+- Автор: 'John Hersey'
+- Рейтинг: 3.97
+- Код языка: 'eng'
+- Страницы: 152
+- Год публикации: 1989, 
+Книга:
+- Название: 'Gideon's Trumpet: How One Man  a Poor Prisoner  Took His Case to the Supreme Court-And Changed the Law of the United States'
+- Автор: 'Anthony  Lewis'
+- Рейтинг: 3.91
+- Код языка: 'eng'
+- Страницы: 288
+- Год публикации: 1989, 
+Книга:
+- Название: 'The Swimming-Pool Library'
+- Автор: 'Alan Hollinghurst'
+- Рейтинг: 3.77
+- Код языка: 'eng'
+- Страницы: 352
+- Год публикации: 1989, 
+Книга:
+- Название: 'The Story of a Shipwrecked Sailor'
+- Автор: 'Gabriel García Márquez/Randolf Hogan'
+- Рейтинг: 3.78
+- Код языка: 'eng'
+- Страницы: 128
+- Год публикации: 1989, 
+Книга:
+- Название: 'Mama Day'
+- Автор: 'Gloria Naylor'
+- Рейтинг: 4.17
+- Код языка: 'eng'
+- Страницы: 312
+- Год публикации: 1989, 
+Книга:
+- Название: 'Oscar Wilde'
+- Автор: 'Richard Ellmann'
+- Рейтинг: 4.24
+- Код языка: 'eng'
+- Страницы: 736
+- Год публикации: 1988, 
+Книга:
+- Название: 'The Mistress of Husaby (Kristin Lavransdatter  #2)'
+- Автор: 'Sigrid Undset'
+- Рейтинг: 4.15
+- Код языка: 'en-US'
+- Страницы: 384
+- Год публикации: 1987, 
+Книга:
+- Название: 'Common Ground: A Turbulent Decade in the Lives of Three American Families'
+- Автор: 'J. Anthony Lukas'
+- Рейтинг: 4.28
+- Код языка: 'eng'
+- Страницы: 688
+- Год публикации: 1986, 
+Книга:
+- Название: 'Remembrance of Things Past: Volume II - The Guermantes Way & Cities of the Plain'
+- Автор: 'Marcel Proust/C.K. Scott Moncrieff/Terence Kilmartin'
+- Рейтинг: 4.53
+- Код языка: 'en-US'
+- Страницы: 1216
+- Год публикации: 1982, 
+Книга:
+- Название: 'The Power Broker: Robert Moses and the Fall of New York'
+- Автор: 'Robert A. Caro'
+- Рейтинг: 4.51
+- Код языка: 'eng'
+- Страницы: 1344
+- Год публикации: 1975, 
+Книга:
+- Название: 'The Case of the Midwife Toad'
+- Автор: 'Arthur Koestler'
+- Рейтинг: 3.79
+- Код языка: 'en-GB'
+- Страницы: 187
+- Год публикации: 1973, 
+Книга:
+- Название: 'The Death and Rebirth of the Seneca'
+- Автор: 'Anthony F.C. Wallace'
+- Рейтинг: 3.66
+- Код языка: 'eng'
+- Страницы: 416
+- Год публикации: 1972, 
+Книга:
+- Название: 'Lyrical and Critical Essays'
+- Автор: 'Albert Camus/Ellen Conroy Kennedy/Philip Thody'
+- Рейтинг: 4.27
+- Код языка: 'eng'
+- Страницы: 365
+- Год публикации: 1970, 
+Книга:
+- Название: 'The Historian's Craft: Reflections on the Nature and Uses of History and the Techniques and Methods of Those Who Write It.'
+- Автор: 'Marc Bloch/Peter Putnam/Joseph Reese Strayer'
+- Рейтинг: 4.05
+- Код языка: 'eng'
+- Страницы: 224
+- Год публикации: 1964, 
+Книга:
+- Название: 'The Possessed'
+- Автор: 'Albert Camus/Justin O'Brien'
+- Рейтинг: 3.83
+- Код языка: 'eng'
+- Страницы: 190
+- Год публикации: 1964, 
+Книга:
+- Название: 'James Joyce's Ulysses'
+- Автор: 'Stuart Gilbert'
+- Рейтинг: 4.17
+- Код языка: 'eng'
+- Страницы: 405
+- Год публикации: 1955]
