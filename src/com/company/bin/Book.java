@@ -2,7 +2,7 @@ package com.company.bin;
 
 import java.util.List;
 
-public class Book{
+public class Book implements Comparable<Book>{
     private String bookName;
     private String author;
     private double rating;
@@ -68,4 +68,8 @@ public class Book{
                 "- Дата публикации: " + yearPublish;
     }
 
+    @Override
+    public int compareTo(Book o) {
+        return o.getYearPublish() - this.getYearPublish();
+    }
 }

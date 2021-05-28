@@ -99,16 +99,18 @@ public class Main {
 //            System.out.println("\nСписок издательств: " + publishNameList + "\n");
 
             // Подсчет количества книг у каждого издательства и нахождение топа по кол-ву книг.
-            for (Publish publish : publishList) {
-                count = publish.getBookPublish().size();
-                if (count > countTop) {
-                    countTop = count;
-                    topName = publish.getPublishName();
-                }
-                // Вывод всех издательств и кол-во их книг
-//                System.out.println(publish.getPublishName() + " книг: " + count);
-            }
-            System.out.println("\nБольше всего книг у издателя: '" + topName + "' (" + countTop + " книг)");
+            Collections.sort(publishList);
+            System.out.println("\nБольше всего книг у издателя: '" + publishList.get(0).getPublishName() + "' (" + publishList.get(0).getLenght() + " книг)");
+//            for (Publish publish : publishList) {
+//                count = publish.getLenght();
+//                if (count > countTop) {
+//                    countTop = count;
+//                    topName = publish.getPublishName();
+//                }
+//                // Вывод всех издательств и кол-во их книг
+////                System.out.println(publish.getPublishName() + " книг: " + count);
+//            }
+//            System.out.println("\nБольше всего книг у издателя: '" + topName + "' (" + countTop + " книг)");
 
             // Поиск издательства с самым большим средним рейтингом по введенному году
             System.out.println("\nВведите год: ");
@@ -144,17 +146,12 @@ public class Main {
 
             // Запись в файл
             try (FileWriter writer = new FileWriter("src/com/company/output/output.txt", false)) {
-                writer.write("Больше всего книг у издателя: " + topName);
+                writer.write("Больше всего книг у издателя: " + publishList.get(0).getPublishName() + "' (" + publishList.get(0).getLenght() + " книг)");
                 // Вывод отсортированного по году списка книг
                 // sort предложен по дефолту
                 for (Publish publish : publishList) {
-                    Collections.sort(publish.getBookPublish(), new Comparator<Book>() {
-                        @Override
-                        public int compare(Book o1, Book o2) {
-                            return o2.getYearPublish() - o1.getYearPublish();
-                        }
-                    });
-                    if (publish.getPublishName().equals(topName)) {
+                    if (publish.getPublishName().equals(publishList.get(0).getPublishName())) {
+                        Collections.sort(publish.getBookPublish());
                         writer.write("\n" + String.valueOf(publish.getBookPublish()));
                     }
                 }
